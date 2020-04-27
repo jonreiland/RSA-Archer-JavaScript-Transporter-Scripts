@@ -1,0 +1,27 @@
+{
+  "Links":[],
+  "RequestedObject":
+    {
+      "SessionToken":"[SESSION TOKEN]",
+      "InstanceName":"[INSTANCE NAME]",
+      "UserId":2,
+      "ContextType":0,
+      "UserConfig":
+        {
+          "TimeZoneId":"Central Standard Time",
+          "TimeZoneIdSource":1,
+          "LocaleId":"en-US",
+          "LocaleIdSource":1,
+          "LanguageId":1,
+          "DefaultHomeDashboardId":113,
+          "DefaultHomeWorkspaceId":73,
+          "LanguageIdSource":1,
+          "PlatformLanguageId":1,
+          "PlatformLanguagePath":"en-US",
+          "PlatformLanguageIdSource":1
+        },
+      "Translate":false,"IsAuthenticatedViaRestApi":true
+    },
+  "IsSuccessful":true,
+  "ValidationMessages":[]
+}
